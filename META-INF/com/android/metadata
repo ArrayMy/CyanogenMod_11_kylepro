@@ -1,0 +1,3 @@
+post-build=samsung/cm_kylepro/kylepro:4.4.4/KTU84Q/3bca1dd77f:userdebug/test-keys
+post-timestamp=1464948831
+pre-device=kylepro
